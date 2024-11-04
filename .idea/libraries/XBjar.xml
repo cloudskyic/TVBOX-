@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="XB包jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/一木源/JAR/XB包jar/哔滴影视.jar!/" />
+      <root url="jar://$PROJECT_DIR$/一木源/JAR/XB包jar/低端.jar!/" />
+      <root url="jar://$PROJECT_DIR$/一木源/JAR/XB包jar/LIBVIO.jar!/" />
+      <root url="jar://$PROJECT_DIR$/一木源/JAR/XB包jar/真不卡.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

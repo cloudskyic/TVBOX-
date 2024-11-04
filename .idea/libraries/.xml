@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="直播">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/一木源/JAR/直播jar/直播.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

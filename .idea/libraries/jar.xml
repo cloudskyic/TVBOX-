@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="娱乐jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/一木源/JAR/娱乐jar/聚短视频.jar!/" />
+      <root url="jar://$PROJECT_DIR$/一木源/JAR/娱乐jar/哔哩哔哩通用.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
